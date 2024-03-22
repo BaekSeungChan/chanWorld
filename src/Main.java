@@ -37,6 +37,29 @@ public class Main {
         //난 묵찌빠로 유학까지 다녀왔단 사실
         //네놈을 이겨 가문의 이름 높이리
 >>>>>>> origin/main
+
+
+                /*
+                *
+                * lmkdsfmklfsmdsmlsdfdskmdsf*/
+
+
+        /*ldfnl;vdfsn;jlvfmnkl
+        * dsfkfskdmk
+        * dm
+        * k
+        * mf
+        * mkf
+        * km*/
+
+
+        /*
+        * 1323112314
+        * 124
+        * 124
+        * 12
+        * 421
+        * 4*/
     }
 
 
