@@ -20,5 +20,8 @@ public class Main {
         * kfnadnfj;ads'fdsfdlskflknds
         * dsfjnlsdnflmads
         * fndsjfldsa'*/
+        //난 대학부터 묵찌빠를 전공했단 사실
+        //네놈을 이겨 눈물 콧물 쏙 다 빼주마
+        나나나나나나나
     }
 }
